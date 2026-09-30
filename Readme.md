@@ -1,10 +1,11 @@
 # Comprehensive list of all projects, publishes & bugs found
 
-a) AKS-project-VotingApp:
- <b> https://github.com/tahamasood2006/aks-project-votingApp
 
-b) K8s-RBAC-GrafanaProject:
+a) K8s-RBAC-GrafanaProject:
  <b> https://github.com/tahamasood2006/k8s-RBAC-withPrometheus-project
+ 
+b) AKS-project-VotingApp:
+ <b> https://github.com/tahamasood2006/aks-project-votingApp
 
 c) EKS-RetailProject-Practice:
  <b> https://github.com/tahamasood2006/EKS-project-retail-practice
